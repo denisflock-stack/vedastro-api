@@ -1,0 +1,6 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore Windows zone identifier files
+*Zone.Identifier
